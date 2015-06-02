@@ -1,9 +1,9 @@
-=== Plugin Name ===
+=== Parkopedia Parking Map ===
 Contributors: parkopedia
 Tags: parking, map, embeddable, parkopedia, parking map, google maps, google map, store locator, map plugin, parking widget
 Requires at least: 3.0.1
 Tested up to: 3.4
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,6 +28,9 @@ It is super easy to use with a shortcode. This is the perfect map for your conta
 2. An example showing how to add the Parkopedia map to one of your pages, once you've installed and activated the plugin!
 
 == Changelog ==
+
+= 1.0.2 =
+* added a banner iamge and changed plugin name to Parkopedia Parking Map
 
 = 1.0.1 =
 * updated readme.txt and added screenshots
